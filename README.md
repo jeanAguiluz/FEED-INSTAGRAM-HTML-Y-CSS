@@ -1,4 +1,4 @@
-#Bienvenidos a mi proecto con HTML Y CSS.
+#Bienvenidos a mi proyecto con HTML Y CSS.
 
 #Nombre Proyecto:Instagram Photho Feed con HTML5 y CSS.
 
